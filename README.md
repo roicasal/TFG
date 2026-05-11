@@ -26,4 +26,4 @@ Utilízase a técnica de **Tag-and-Probe** empregando a resonancia $J/\psi \to \
 4. **Sistemáticos:** Estimación de incertezas asociadas ao modelo de axuste.
 
 ---
-*Autor: [Roi Casal Blanco]* *Institución: [IGFAE]* *Ano: 2026*
+*Autor: Roi Casal Blanco* *Institución: IGFAE* *Ano: 2026*

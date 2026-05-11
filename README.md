@@ -13,7 +13,7 @@ Utilízase a técnica de **Tag-and-Probe** empregando a resonancia $J/\psi \to \
 ##  Tecnoloxías utilizadas
 * **Linguaxe:** Python (PyROOT)
 * **Framework de análise:** [ROOT](https://root.cern/) e **RooFit**
-* **Entorno:** VS Code vía SSH no servidor do LHCb / Instituto
+* **Entorno:** VS Code vía SSH no servidor do IGFAE
 
 ##  Estrutura do Repositorio
 * `/notebooks`: Ficheiros `.ipynb` cos cortes para filtrar, axustes de masa e extracción de rendementos.

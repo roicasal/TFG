@@ -10,7 +10,7 @@ A análise céntrase no estudo de sistemas de colisión de ións lixeiros:
 
 Utilízase a técnica de **Tag-and-Probe** empregando a resonancia $J/\psi \to \mu^+\mu^-$ para extraer as eficiencias directamente dos datos de colisión e simulación (MC).
 
-## 🛠️ Tecnoloxías utilizadas
+##  Tecnoloxías utilizadas
 * **Linguaxe:** Python (PyROOT)
 * **Framework de análise:** [ROOT](https://root.cern/) e **RooFit**
 * **Entorno:** VS Code vía SSH no servidor do LHCb / Instituto
@@ -19,7 +19,7 @@ Utilízase a técnica de **Tag-and-Probe** empregando a resonancia $J/\psi \to \
 * `/notebooks`: Ficheiros `.ipynb` cos cortes para filtrar, axustes de masa e extracción de rendementos.
 
 
-## 📊 Metodoloxía
+##   Metodoloxía
 1. **Selección de eventos:** Filtrado de candidatos $J/\psi$ con cortes de calidade.
 2. **Axuste de Masa Invariante:** Modelado do sinal (Crystal Ball/Gaussiana) e do fondo ( Exponencial) usando **RooFit**.
 3. **Eficiencias:** Cálculo de eficiencias en bins de $p_T$ e $\eta$.
